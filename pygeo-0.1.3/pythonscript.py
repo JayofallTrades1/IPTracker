@@ -1,3 +1,5 @@
+##Traces an IP address using the GeoLiteCity database
+
 import pygeoip
 import socket 
 import pygeo 
